@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ResponsiveWeb/static/css/main.f0d84dc4.chunk.css",
+    "main.js": "/ResponsiveWeb/static/js/main.3e8f83d2.chunk.js",
+    "main.js.map": "/ResponsiveWeb/static/js/main.3e8f83d2.chunk.js.map",
+    "runtime-main.js": "/ResponsiveWeb/static/js/runtime-main.7bb61176.js",
+    "runtime-main.js.map": "/ResponsiveWeb/static/js/runtime-main.7bb61176.js.map",
+    "static/css/2.383c0125.chunk.css": "/ResponsiveWeb/static/css/2.383c0125.chunk.css",
+    "static/js/2.d48414b1.chunk.js": "/ResponsiveWeb/static/js/2.d48414b1.chunk.js",
+    "static/js/2.d48414b1.chunk.js.map": "/ResponsiveWeb/static/js/2.d48414b1.chunk.js.map",
+    "static/js/3.85984177.chunk.js": "/ResponsiveWeb/static/js/3.85984177.chunk.js",
+    "static/js/3.85984177.chunk.js.map": "/ResponsiveWeb/static/js/3.85984177.chunk.js.map",
+    "index.html": "/ResponsiveWeb/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/ResponsiveWeb/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.f0d84dc4.chunk.css.map": "/ResponsiveWeb/static/css/main.f0d84dc4.chunk.css.map",
+    "static/js/2.d48414b1.chunk.js.LICENSE.txt": "/ResponsiveWeb/static/js/2.d48414b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bb61176.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.d48414b1.chunk.js",
+    "static/css/main.f0d84dc4.chunk.css",
+    "static/js/main.3e8f83d2.chunk.js"
+  ]
+}
