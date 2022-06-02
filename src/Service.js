@@ -5,6 +5,7 @@ const Service = () => {
     return (
         <>
            {/* <Navbar></Navbar> */}
+        <Common name="Welcome to About page " visit="/contact" btnname="Contact Now"/>
         </>
     )
 }
